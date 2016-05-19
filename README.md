@@ -8,6 +8,6 @@
 
 ##実施予定
 1. [Scratch 2.0入門 - ドットインストール](http://dotinstall.com/lessons/basic_scratch_v3)
-2. [enchant.js入門 - ドットインストール](http://www.atmarkit.co.jp/fcoding/index/stat.html)
-3. クマを捕まえろ！ミニゲーム
+2. [enchant.js入門 - ドットインストール](http://dotinstall.com/lessons/basic_enchant_js_v2)
+3. [クマを捕まえろ！ミニゲーム - ドットインストール](http://dotinstall.com/lessons/kuma_catch_enchant_js_v2)
 4. ミニゲーム作成？

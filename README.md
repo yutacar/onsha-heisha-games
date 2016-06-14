@@ -11,4 +11,4 @@
 2. [enchant.js入門 - ドットインストール](http://dotinstall.com/lessons/basic_enchant_js_v2)
   + [公式サイト](http://enchantjs.com/ja/)
 3. [クマを捕まえろ！ミニゲーム - ドットインストール](http://dotinstall.com/lessons/kuma_catch_enchant_js_v2)
-4. ミニゲーム作成？
+4. [ミニゲーム作成](2d-game.md)
